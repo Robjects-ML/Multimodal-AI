@@ -1,3 +1,4 @@
 .vscode/settings.json
 .vscode/branch-timer.json
 .DS_Store
+.venv
