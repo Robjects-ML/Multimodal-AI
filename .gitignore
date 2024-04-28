@@ -3,3 +3,4 @@
 .DS_Store
 .venv
 test/ai-api/perplexity-chat/.env
+minimal-master
